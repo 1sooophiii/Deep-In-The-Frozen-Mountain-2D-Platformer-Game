@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 2644df482a47c754fbdbe990e5caf428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2342925423966257273
+    second: TeraWalking_0
+  - first:
+      213: -7787664832509851750
+    second: TeraWalking_1
+  - first:
+      213: -7242914418976683740
+    second: TeraWalking_2
+  - first:
+      213: 6405528150021056612
+    second: TeraWalking_3
+  - first:
+      213: 7452212007594880654
+    second: TeraWalking_4
+  - first:
+      213: -1042822428621562926
+    second: TeraWalking_5
+  - first:
+      213: 1052963734641263447
+    second: TeraWalking_6
+  - first:
+      213: -2301121608351339307
+    second: TeraWalking_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeraWalking_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 16
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.72836065, y: 0.039376635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9708dbe724eb38020800000000000000
+      internalID: 2342925423966257273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.738913, y: 0.0731815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97c27c7818ace390800000000000000
+      internalID: -7787664832509851750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7165723, y: 0.039376635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290756e5bffb7b90800000000000000
+      internalID: -7242914418976683740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 16
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7065797, y: 0.06349119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46825cc1ae105e850800000000000000
+      internalID: 6405528150021056612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 16
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7216835, y: 0.04906695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee79f56539b6760800000000000000
+      internalID: 7452212007594880654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 16
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6814823, y: 0.044332966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db933ab6862781f0800000000000000
+      internalID: -1042822428621562926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 16
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.7185196, y: 0.05402328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75349a410f0ec9e00800000000000000
+      internalID: 1052963734641263447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeraWalking_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 16
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6976535, y: 0.05897961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2e3dc616c010e0800000000000000
+      internalID: -2301121608351339307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TeraWalking_5: -1042822428621562926
+      TeraWalking_3: 6405528150021056612
+      TeraWalking_7: -2301121608351339307
+      TeraWalking_1: -7787664832509851750
+      TeraWalking_4: 7452212007594880654
+      TeraWalking_0: 2342925423966257273
+      TeraWalking_2: -7242914418976683740
+      TeraWalking_6: 1052963734641263447
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
