@@ -1,5 +1,3 @@
-*The project has not been fully uploaded yet*
-
 # Deep In The Frozen Mountain 
 ## 2D Platformer Game
 #
